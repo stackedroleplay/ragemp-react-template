@@ -1,0 +1,3 @@
+[submodule "example/ragemp-react-template"]
+	path = example/ragemp-react-template
+	url = https://github.com/stackedroleplay/ragemp-react-template.git
